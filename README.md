@@ -7,5 +7,8 @@ The model integrates high-rate GNSS displacement and strong-motion velocity wave
 - Normalized slip distribution
 - Final slip distribution reconstructed from maximum slip and normalized slip distribution
 
-Only the model structure is released.  
+Only the model structure is released. 
 
+---
+
+## 📌 Repository Structure
