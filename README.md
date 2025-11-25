@@ -1,4 +1,4 @@
-# A Multi-Task Deep Learning Model for Estimating Earthquake Magnitude and Slip Distribution
+# MUSE: A Multi-Source Deep Learning Framework for Estimating Earthquake Magnitude and Slip Distribution
 This repository contains the model implementation used in our study:
 **“A Multi-Task Deep Learning Model for Estimating Earthquake Magnitude and Slip Distribution Using High-Rate GNSS, Strong-Motion Data, and Magnitude-Derived Priors”**  
 The model integrates high-rate GNSS displacement and strong-motion velocity waveforms to jointly estimate:
